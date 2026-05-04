@@ -54,18 +54,7 @@ I build things at the intersection of **machine learning** and **real-world prob
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
----
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🌍 **[StudyCompass](https://studycompas.me)** | AI platform that scores 0–100 for study abroad destinations; includes ReAct-style AI advisor, professor finder & research paper analyzer | React, TypeScript, Supabase, Gemini 2.5 Flash |
-| 🩺 **AI Skin Disease Detection** | End-to-end ML pipeline combining computer vision + generative AI for clinically-informed health insights; deployed on Hugging Face | EfficientNet-B3, FastAPI, Docker, Gemini |
-| 🛰️ **Invasive Aquatic Plant ID via UAV** | Stacking ensemble of CNNs to classify Water Lettuce & Water Hyacinth from high-resolution drone imagery | CNNs, Deep Learning, UAV |
-| 🤖 **Self-Supervised YOLO Segmentation** | Benchmarked Mean Teacher, MixMatch & FixMatch for label-efficient YOLO instance segmentation | YOLOv8, PyTorch |
-
----
 
 ## 📊 GitHub Stats
 
