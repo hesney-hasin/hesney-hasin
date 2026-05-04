@@ -5,7 +5,8 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist+%26+ML+Researcher;Building+AI+for+Healthcare+%26+Education;Python+%7C+React+%7C+FastAPI+%7C+Docker;Open+to+Internships+%26+Collaborations" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist+%26+ML+Researcher;Python+%7C+Machine+Learning+%7C+SQL+%7C+AI;Open+to+Internships+%26+Research+%7C+Collaborations" />
+
 </p>
 
 ---
