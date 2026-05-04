@@ -1,7 +1,106 @@
-<!-- Skill Icons (like Hafsa's large icons) -->
-[![My Skills](https://skillicons.dev/icons?i=python,js,react,tensorflow,git)](https://skillicons.dev)
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi!%20I'm%20Hasnay%20Hasin%20👋&fontSize=50&animation=fadeIn&fontColor=fff" />
+</p>
 
-<!-- Shields.io badges (like Nowrin's colored badges) -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=ML+Engineer+%7C+Data+Scientist+%7C+Full-Stack+Developer;Building+AI+for+Healthcare+%26+Education;IEEE+Published+Researcher+%F0%9F%93%84;CS+%26+Engineering+@+East+West+University" />
+</p>
 
+---
+
+## 👩‍💻 About Me
+
+- 🎓 **BSc in Computer Science & Engineering** @ East West University, Dhaka *(Sep 2022 – Present)* | CGPA: 3.21
+- 🔬 Researcher — **IEEE-published** work on vehicle price prediction using ML (SVM, SVR, Decision Tree)
+- 🌍 Creator of **[StudyCompass](https://studycompas.me)** — an AI-powered study abroad platform for Bangladeshi students
+- 🩺 Built an **AI Skin Disease Detection System** deployed on Hugging Face Spaces
+- 🛰️ Applied deep learning to **UAV imagery** for invasive aquatic plant identification
+- 🏆 **HerWILL AI for Equality Datathon** participant & certificate holder (Nov 2024)
+- 📍 Dhaka, Bangladesh
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,sklearn,opencv" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,fastapi,docker" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode,linux" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🌍 **[StudyCompass](https://studycompas.me)** | Full-stack AI platform that scores countries 0–100 for students; includes ReAct-style AI advisor, professor finder & research paper analyzer | React, TypeScript, Supabase, Gemini 2.5 Flash |
+| 🩺 **AI Skin Disease Detection** | End-to-end ML pipeline: computer vision + generative AI for clinically-informed health insights; containerized & deployed on Hugging Face | EfficientNet-B3, FastAPI, Docker, Gemini |
+| 🛰️ **Invasive Aquatic Plant ID via UAV** | Stacking ensemble of CNN models to classify Water Lettuce & Water Hyacinth from high-resolution drone imagery | CNNs, Deep Learning, UAV Imagery |
+| 🤖 **Self-Supervised YOLO Segmentation** | Benchmarked Mean Teacher, MixMatch & FixMatch for label-efficient YOLO instance segmentation | YOLOv8, PyTorch, Semi-supervised Learning |
+
+---
+
+## 📄 Publication
+
+📘 **IEEE-Published Research** — *Vehicle Price Prediction Using Machine Learning* (May 2025)  
+Compared SVM, SVR, Decision Tree and other ML models to accurately predict vehicle pricing.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hesney-hasin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesney-hasin&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hesney-hasin&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:hesneyhasinmaliha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/hesney-hasin-maliha">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://studycompas.me">
+    <img src="https://img.shields.io/badge/StudyCompass-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/hesney-hasin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hesney-hasin&color=blueviolet&style=for-the-badge" />
+</p>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
