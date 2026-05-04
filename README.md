@@ -79,12 +79,6 @@ I build things at the intersection of **machine learning** and **real-world prob
   <a href="https://linkedin.com/in/hesney-hasin-maliha">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://studycompas.me">
-    <img src="https://img.shields.io/badge/StudyCompass-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/hesney-hasin">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 <p align="center">
