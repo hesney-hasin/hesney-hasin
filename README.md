@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi!%20I'm%20Hasnay%20Hasin%20👋&fontSize=50&animation=fadeIn&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi!%20I'm%20Hasnay%20Hasin%20&fontSize=50&animation=fadeIn&fontColor=fff" />
 </p>
 
 <!-- Typing Animation -->
@@ -23,7 +23,7 @@ I build things at the intersection of **machine learning** and **real-world prob
 
 ---
 
-## 🛠️ Languages & Tools
+## 🧰 Stack & Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn" /><br/>
