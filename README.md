@@ -12,9 +12,8 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **BSc in Computer Science & Engineering** @ East West University, Dhaka *(Sep 2022 – Present)* | CGPA: 3.21
+- 🎓 **BSc in Computer Science & Engineering** @ East West University, Dhaka *(Sep 2022 – Present)* 
 - 🔬 Researcher — **IEEE-published** work on vehicle price prediction using ML (SVM, SVR, Decision Tree)
-- 🌍 Creator of **[StudyCompass](https://studycompas.me)** — an AI-powered study abroad platform for Bangladeshi students
 - 🩺 Built an **AI Skin Disease Detection System** deployed on Hugging Face Spaces
 - 🛰️ Applied deep learning to **UAV imagery** for invasive aquatic plant identification
 - 🏆 **HerWILL AI for Equality Datathon** participant & certificate holder (Nov 2024)
