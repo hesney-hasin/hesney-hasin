@@ -17,8 +17,7 @@
 I build things at the intersection of **machine learning** and **real-world problems** — from helping students navigate study abroad options, to detecting skin diseases with deep learning, to classifying invasive plants from drone footage. My projects tend to start with *"what if..."* and end with a working demo.
 
 🔭 &nbsp;Wrapping up my undergrad at **East West University** (Spring 2026)  
-🌱 &nbsp;Currently exploring **Computer Vision**, **NLP**, and **full-stack AI apps**  
-🏆 &nbsp;**HerWILL AI for Equality Datathon** — completed the AI & Equality program (Nov 2024)  
+🌱 &nbsp;Currently exploring **Computer Vision**, **NLP**, and **full-stack AI apps**   
 🤝 &nbsp;Open to **internships**, **research collaborations**, and **interesting problems**  
 📍 &nbsp;Based in **Dhaka, Bangladesh**
 
