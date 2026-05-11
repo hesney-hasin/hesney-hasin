@@ -73,6 +73,12 @@ I build things at the intersection of **machine learning** and **real-world prob
   <a href="https://linkedin.com/in/hesney-hasin-maliha">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://kaggle.com/hasnayhasin">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+<a href="https://huggingface.co/hesneyhasin">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</a>
 </p>
 
 <p align="center">
