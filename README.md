@@ -37,24 +37,9 @@ I build things at the intersection of **machine learning** and **real-world prob
 </p>
 
 <p align="center">
-  <b>Python</b> &nbsp;&nbsp;&nbsp;
-  <b>Java</b> &nbsp;&nbsp;&nbsp;
-  <b>SQL</b> &nbsp;&nbsp;&nbsp;
-  <b>PostgreSQL</b> &nbsp;&nbsp;&nbsp;
-  <b>Supabase</b> &nbsp;&nbsp;&nbsp;
-  <b>FastAPI</b>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
-<p align="center">
-  <b>Git</b> &nbsp;&nbsp;&nbsp;
-  <b>GitHub</b> &nbsp;&nbsp;&nbsp;
-  <b>VS Code</b>
 </p>
 
 
